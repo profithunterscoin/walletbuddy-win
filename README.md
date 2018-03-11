@@ -1,5 +1,5 @@
 -------------------------------------------------------------------
-PHC - PHC Wallet Buddy 1.1 - Windows (C) 2018 Profit Hunters Coin
+PHC Wallet Buddy 1.1 - Windows (C) 2018 Profit Hunters Coin
 -------------------------------------------------------------------
 BACKUP wallet.dat file to an external drive before you continue!
 Notice: USE THIS TOOL AT YOUR OWN RISK!
